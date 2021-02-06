@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="engines">
+        <item>Фондовый рынок и рынок депозитов</item>
+        <item>Рынок ГЦБ (размещение)</item>
+        <item>Валютный рынок</item>
+        <item>Срочный рынок</item>
+        <item>Товарный рынок</item>
+        <item>Товарные интервенции</item>
+        <item>ОТС-система</item>
+    </string-array>
+</resources>

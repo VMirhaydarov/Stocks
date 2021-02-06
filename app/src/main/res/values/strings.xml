@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Stocks</string>
+    <string name="engine">Торговая система:\u0020</string>
+    <string name="choose_engine">Выбрать торговую систему</string>
+    <string name="market">Рынок:\u0020</string>
+    <string name="choose_market">Выбрать рынок</string>
+    <string name="security">Бумага:\u0020</string>
+    <string name="choose_security">Выбрать бумагу</string>
+    <string name="btn_chk_text">Получить результат</string>
+    <string name="OK">OK</string>
+    <string name="log_title">Лог выполнения:</string>
+    <string name="study_perceptron">Обучить нейросеть</string>
+    <string name="num_days">Количество дней для обучения: \u0020</string>
+    <string name="num_neuro">Количество нейронов: \u0020</string>
+    <string name="num_layers">Количество слоев: \u0020</string>
+    <string name="num_max_iterations">Максимум итераций: \u0020</string>
+
+</resources>
